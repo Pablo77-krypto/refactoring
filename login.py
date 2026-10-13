@@ -1,4 +1,5 @@
-users = {'admin': 'secretpass'}
+
+# second refactor
 
 username = input('Enter username: ')
 password = input('Enter password: ')
