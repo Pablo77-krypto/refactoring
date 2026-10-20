@@ -1,4 +1,3 @@
-
 # second refactor
 
 username = input('Enter username: ')
